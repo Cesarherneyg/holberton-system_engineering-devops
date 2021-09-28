@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($TRUEKNOWLEGDE+128)) | cat -e
+echo $(($TRUEKNOWLEGDE + 128)) 
